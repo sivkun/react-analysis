@@ -1,11 +1,11 @@
 # react-analysis
 参考链接：
 > ① http://blog.csdn.net/u013510838/article/details/55669742
+ ②https://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/
+ ③https://zhuanlan.zhihu.com/p/20346379?columnSlug=purerender
 
-> ② https://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/
-
-> ③ https://zhuanlan.zhihu.com/p/20346379?columnSlug=purerender
 src文件夹是React@16.0.0-alpha.3添加了注释的源码。
+
 下面三个文档对源码的理解会有所帮助。
 1. 参考别人的
 react_copy.md 
