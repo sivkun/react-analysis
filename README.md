@@ -13,6 +13,7 @@ react_copy.md
 react-analysis1.md 
 3. 第二次阅读的时候做的笔记
 react-analysis2.md
+
 自己的笔记，当时记得很随意，后来也没有整理。理解可能也会有出入的地方。
 # 笔记总结
 链接：https://sivkun.github.io/2017/06/10/react-analysis总结/#more
